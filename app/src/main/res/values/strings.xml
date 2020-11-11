@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="txt_holamundo">Hola Mundo</string>
+    <string name="hola_mundo">Hola Mundo</string>
+    <string name="pon_un_saludo">Pon un saludo</string>
+    <string name="enviar_saludo">Enviar Saludo</string>
+</resources>
